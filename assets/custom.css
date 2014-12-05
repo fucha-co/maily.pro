@@ -115,3 +115,11 @@ body {
 .noMargTop {
     margin: 0px 0 80px;
 }
+
+.signup {
+    margin-top: 5px;
+}
+
+.taRight {
+    text-align: right;
+}
