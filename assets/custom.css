@@ -120,6 +120,22 @@ body {
     margin-top: 5px;
 }
 
-.taRight {
+.username {
+    padding-right: 1px !important;
+    border-right: 0;
+}
+
+.atmaily {
+    padding-top: 11px !important;
+    padding-left: 0 !important;
+    background: white;
+    border-left: 0;
+}
+
+.taC {
+    text-align: center;
+}
+
+.taR {
     text-align: right;
 }
