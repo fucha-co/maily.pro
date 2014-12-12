@@ -576,7 +576,7 @@ header.video .top, header.slider .top {position: relative}
 .message-intro span.message-line{display: none}
 .message-intro {padding-bottom:0;font-size:15px;letter-spacing: 0; text-align: center; width:100%; margin:0 auto; display:table;}
 .message-intro p{text-align: center; margin:0 auto;}
-header .message h1 {font-size:30px; margin:0;}
+header .message h1 {font-size:50px; margin:0;}
 header .message .button {margin-top:30px;}
 .logo {text-align: center}
 .features ul li {border:0;}
